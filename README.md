@@ -3,6 +3,8 @@ Course Project (Week 4), Peer Reviewed
 
 This is the course project for the Getting and Cleaning Data Coursera course (March 2017. My R script, run_analysis.R, does the following:
 
+IMPORTANT NOTE -- run_analsis.R while sitting in the UCI HAR Dataset directory (./UCI HAR Dataset)
+
 1) Download the dataset from accelerometers for the Samsung Galaxy S smartphone in the working directory, and unzips directory
 
 2) Load the activity and feature info
