@@ -8,15 +8,43 @@ activityId - The type of activity performed when the corresponding measurements 
 
 #Measurements
 TimeDomain.BodyAccelerationMagnitude.Mean
+
 TimeDomain.BodyAccelerationMagnitude.StandardDeviation
+
 TimeDomain.GravityAccelerationMagnitude.Mean
+
 TimeDomain.GravityAccelerationMagnitude.StandardDeviation
+
 TimeDomain.BodyAccelerationJerkMagnitude.Mean
+
 TimeDomain.BodyAccelerationJerkMagnitude.StandardDeviation
+
 TimeDomain.BodyAngularSpeedMagnitude.Mean
+
 TimeDomain.BodyAngularSpeedMagnitude.StandardDeviation
+
 TimeDomain.BodyAngularAccelerationMagnitude.Mean
+
 TimeDomain.BodyAngularAccelerationMagnitude.StandardDeviation
+
+FrequencyDomain.BodyAccelerationMagnitude.Mean
+
+FrequencyDomain.BodyAccelerationMagnitude.StandardDeviation
+
+FrequencyDomain.BodyBodyAccelerationJerkMagnitude.Mean
+
+FrequencyDomain.BodyBodyAccelerationJerkMagnitude.StandardDeviation
+
+FrequencyDomain.BodyBodyAccelerationJerkMagnitude.StandardDeviation
+
+FrequencyDomain.BodyBodyAngularSpeedMagnitude.Mean
+
+FrequencyDomain.BodyBodyAngularSpeedMagnitude.StandardDeviation
+
+FrequencyDomain.BodyBodyAngularAccelerationMagnitude.Mean
+
+FrequencyDomain.BodyBodyAngularAccelerationMagnitude.StandardDeviation
+
 
 # Activity Labels
 WALKING (value 1): subject was walking during the test
